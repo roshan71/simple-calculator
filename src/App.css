@@ -1,0 +1,28 @@
+.main {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Exo', sans-serif;
+
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255))
+}
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+.allmain{
+  background-color: aqua;
+  height: 100% !important;
+}
+.main h1{
+  color: #fff;
+  font-size: 50px;
+}
+.mainCalc{
+  margin-top:3px ;
+  align-content: center;
+  align-self: center;
+  border: 1px solid rgb(27, 25, 25);
+  box-shadow: 1px 2px #888888;
+ background-color: white;
+}
+

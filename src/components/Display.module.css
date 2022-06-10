@@ -1,0 +1,16 @@
+.mainDisplay{
+    height: 5ch;
+}@font-face{
+    font-family:'digital-clock-font';
+    src: url("../digital-7/digital-7.ttf");
+   }
+.mainDisplay input{
+    text-align: center;
+    width:220px;
+    font-family: "digital-clock-font";
+    height: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+    border:1px;
+    
+}
